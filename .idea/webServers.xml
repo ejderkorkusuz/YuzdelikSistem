@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9c97f40e-088e-490b-b60a-837d4b6d40e3" name="UzakBaglanti" url="http://komisyon.yirticiyazilim.com">
+        <fileTransfer host="revolver.guzelhosting.com" port="21" rootFolder="/komisyon.yirticiyazilim.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
